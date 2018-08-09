@@ -1,2 +1,2 @@
 # Exotic-plants-occurrences-in-Wallonia
-Share data preparation from Trias related DEMNA publications.
+Share data preparation to conform Trias publications.
